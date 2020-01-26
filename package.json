@@ -1,0 +1,17 @@
+{
+  "name": "restaurant-selector-cli",
+  "version": "1.0.0",
+  "description": "Basic tool to help solve the usual dinner dilemma",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lacy.koch31@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.4"
+  }
+}

@@ -1,0 +1,12 @@
+[
+	{
+		"name": "lui-lui",
+		"tags":["italian"], 
+		"proximity": "close"
+	},
+	{
+		"name": "public house",
+		"tags":["american", "burgers"],
+		"proximity": "medium"
+	}
+]
